@@ -13,10 +13,10 @@
             <mxPoint x="490" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9FFxV8l2MhW54Wr9CvkF-7" value="in1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9FFxV8l2MhW54Wr9CvkF-7" value="I&lt;span style=&quot;background-color: initial;&quot;&gt;n1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9FFxV8l2MhW54Wr9CvkF-6" value="in2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9FFxV8l2MhW54Wr9CvkF-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;In2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9FFxV8l2MhW54Wr9CvkF-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -42,6 +42,12 @@
         </mxCell>
         <mxCell id="9FFxV8l2MhW54Wr9CvkF-14" value="Out" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9FFxV8l2MhW54Wr9CvkF-15" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9FFxV8l2MhW54Wr9CvkF-16" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
