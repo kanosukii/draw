@@ -15,13 +15,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lwuQL8BFeVN2L0Fn4tVh-3" value="Half_adder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lwuQL8BFeVN2L0Fn4tVh-3" value="Full_adder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lwuQL8BFeVN2L0Fn4tVh-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="189.25" as="sourcePoint" />
-            <mxPoint x="280" y="189.25" as="targetPoint" />
+            <mxPoint x="210" y="179.5" as="sourcePoint" />
+            <mxPoint x="280" y="179.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lwuQL8BFeVN2L0Fn4tVh-5" value="In2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lwuQL8BFeVN2L0Fn4tVh-4" vertex="1" connectable="0">
@@ -31,8 +31,8 @@
         </mxCell>
         <mxCell id="lwuQL8BFeVN2L0Fn4tVh-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="169.75" as="sourcePoint" />
-            <mxPoint x="280" y="169.75" as="targetPoint" />
+            <mxPoint x="210" y="160" as="sourcePoint" />
+            <mxPoint x="280" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lwuQL8BFeVN2L0Fn4tVh-12" value="In1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lwuQL8BFeVN2L0Fn4tVh-11" vertex="1" connectable="0">
@@ -48,6 +48,17 @@
         </mxCell>
         <mxCell id="ojcKFUnHTkqtQyUN_cQc-5" value="Sum" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ojcKFUnHTkqtQyUN_cQc-4">
           <mxGeometry x="-0.1516" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ojcKFUnHTkqtQyUN_cQc-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="200" as="sourcePoint" />
+            <mxPoint x="280" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ojcKFUnHTkqtQyUN_cQc-7" value="Cin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ojcKFUnHTkqtQyUN_cQc-6">
+          <mxGeometry x="-0.181" y="7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
