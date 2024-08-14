@@ -52,8 +52,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FUf5TZPx3JE2WuGn679c-3" value="Resetn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="328" width="60" height="30" as="geometry" />
+        <mxCell id="FUf5TZPx3JE2WuGn679c-3" value="Rstn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="328" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
